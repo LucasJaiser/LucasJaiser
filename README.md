@@ -5,7 +5,7 @@ Softwre Engineer
 ----------------
 
 * 🌍  I'm based in Stuttgart, Germany
-* ✉️  You can contact me at [info@lucasjaiser.me](mailto:info@lucasjaiser.me)
+* ✉️  You can contact me at [info@lucasjaiser.me](mailto:jaiser.lucas@protonmail.com)
 * 🧠  I'm learning Different Concepts, Web Frameworks and Algorithems
 
 ### Skills
